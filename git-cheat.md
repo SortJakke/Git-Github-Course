@@ -143,6 +143,10 @@ $ git remote add <name> <url>
     <th>Function</th>
   </tr>
   <tr>
+    <td>git push origin main</td>
+    <td>Push the main branch to the remote origin</td>
+  </tr>
+  <tr>
     <td>git push -u origin &lt;name&gt;</td>
     <td>Push a branch that you've never pushed before</td>
   </tr>
