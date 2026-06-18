@@ -226,3 +226,28 @@ $ git remote add <name> <url>
     <td>To clear all stashes</td>
   </tr>
 </table>
+
+## Other Cheats
+
+<table style="border: 1px solid">
+  <tr>
+    <th>Commands</th>
+    <th>Function</th>
+  </tr>
+  <tr>
+    <td>git config --global alias.st status</td>
+    <td>Add an alias to a git command</td>
+  </tr>
+  <tr>
+    <td>git config --get-regexp '^alias\.'</td>
+    <td>List all aliases from all config scopes</td>
+  </tr>
+  <tr>
+    <td>git tag -a &lt;version&gt; -m "message"</td>
+    <td>Create a tag</td>
+  </tr>
+  <tr>
+    <td>git tag</td>
+    <td>List all available tags</td>
+  </tr>
+</table>
