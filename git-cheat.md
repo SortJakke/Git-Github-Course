@@ -155,3 +155,20 @@ $ git remote add <name> <url>
     <td>Push the current branch to its remote "tracking branch"</td>
   </tr>
 </table>
+
+## Combine Diverged Branches
+
+<table style="border: 1px solid">
+  <tr>
+    <th>Commands</th>
+    <th>Function</th>
+  </tr>
+  <tr>
+    <td>git rebase main</td>
+    <td>Combine with rebase</td>
+  </tr>
+  <tr>
+    <td>git merge &lt;branch&gt;</td>
+    <td>Push a branch that you've never pushed before</td>
+  </tr>
+</table>
