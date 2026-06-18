@@ -1,0 +1,17 @@
+# Specifies intentionally untracked files to ignore
+
+# Ignore all .json files
+*.json
+
+# Ignore all files in any directory named temp
+temp/
+
+# Lines starting with # are comments.
+# An optional prefix ! negates the pattern, re-including previously excluded files.
+# The slash / is used as a directory separator.
+# An asterisk * matches anything except a slash.
+# A question mark ? matches any one character except a slash.
+# Square brackets [] can be used to match one of the characters in a range.
+
+# A collection of .gitignore templates
+# link: https://github.com/github/gitignore
