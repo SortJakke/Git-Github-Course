@@ -197,3 +197,32 @@ $ git remote add <name> <url>
     <td>Push a branch that you've never pushed before</td>
   </tr>
 </table>
+
+## Git Stash
+
+<table style="border: 1px solid">
+  <tr>
+    <th>Commands</th>
+    <th>Function</th>
+  </tr>
+  <tr>
+    <td>git stash</td>
+    <td>Temporarily save changes</td>
+  </tr>
+  <tr>
+    <td>git stash save "message"</td>
+    <td>Add a descriptive message</td>
+  </tr>
+  <tr>
+    <td>git stash apply</td>
+    <td>Reapply the changes saved in the stash.</td>
+  </tr>
+  <tr>
+    <td>git stash list</td>
+    <td>List the saved stashes</td>
+  </tr>
+  <tr>
+    <td>git stash clear</td>
+    <td>To clear all stashes</td>
+  </tr>
+</table>
