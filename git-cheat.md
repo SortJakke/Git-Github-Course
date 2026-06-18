@@ -156,6 +156,31 @@ $ git remote add <name> <url>
   </tr>
 </table>
 
+## Move Between Branches
+
+<table style="border: 1px solid">
+  <tr>
+    <th>Commands</th>
+    <th>Function</th>
+  </tr>
+  <tr>
+    <td>git checkout -b</td>
+    <td>Create a branch</td>
+  </tr>
+  <tr>
+    <td>git checkout &lt;name&gt;</td>
+    <td>Switch branches</td>
+  </tr>
+  <tr>
+    <td>git branch</td>
+    <td>List branches</td>
+  </tr>
+  <tr>
+    <td>git branch -d &lt;name&gt;</td>
+    <td>Delete a branch</td>
+  </tr>
+</table>
+
 ## Combine Diverged Branches
 
 <table style="border: 1px solid">
